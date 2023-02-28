@@ -1,4 +1,7 @@
 ## Article Review code challenge
+# ENTITY
+
+![ERD ](/erd.jpeg)
 
 ### Introduction
 This is a code challenge working on e-commerce domain. It is focusing on product reviews
